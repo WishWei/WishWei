@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WishWei
+- 👀 I’m interested in java、iOS、python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on some interesting open source project
